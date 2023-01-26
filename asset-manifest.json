@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/main/static/css/main.833c848f.css",
-    "main.js": "/main/static/js/main.809ec9a9.js",
-    "static/js/787.9e90ff23.chunk.js": "/main/static/js/787.9e90ff23.chunk.js",
-    "static/media/aws.png": "/main/static/media/aws.b9ea374622b0fe803508.png",
-    "index.html": "/main/index.html",
-    "main.833c848f.css.map": "/main/static/css/main.833c848f.css.map",
-    "main.809ec9a9.js.map": "/main/static/js/main.809ec9a9.js.map",
-    "787.9e90ff23.chunk.js.map": "/main/static/js/787.9e90ff23.chunk.js.map"
+    "main.css": "/rx-aws-certified-cloud-practitioner-quiz/static/css/main.833c848f.css",
+    "main.js": "/rx-aws-certified-cloud-practitioner-quiz/static/js/main.433f1418.js",
+    "static/js/787.9e90ff23.chunk.js": "/rx-aws-certified-cloud-practitioner-quiz/static/js/787.9e90ff23.chunk.js",
+    "static/media/aws.png": "/rx-aws-certified-cloud-practitioner-quiz/static/media/aws.b9ea374622b0fe803508.png",
+    "index.html": "/rx-aws-certified-cloud-practitioner-quiz/index.html",
+    "main.833c848f.css.map": "/rx-aws-certified-cloud-practitioner-quiz/static/css/main.833c848f.css.map",
+    "main.433f1418.js.map": "/rx-aws-certified-cloud-practitioner-quiz/static/js/main.433f1418.js.map",
+    "787.9e90ff23.chunk.js.map": "/rx-aws-certified-cloud-practitioner-quiz/static/js/787.9e90ff23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.833c848f.css",
-    "static/js/main.809ec9a9.js"
+    "static/js/main.433f1418.js"
   ]
 }
